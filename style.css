@@ -5,7 +5,7 @@ body {
 .dino {
     width: 60px;
     height: 60px;
-    background-image: url(/imgs/dino.png);
+    background-image: url(dino.png);
     position: absolute;
     bottom: 0;
 }
@@ -14,7 +14,7 @@ body {
     position: absolute;
     height: 60px;
     width: 60px;
-    background-image: url(/imgs/cactus.png);
+    background-image: url(cactus.png);
     bottom: 0;
 }
 
@@ -37,7 +37,7 @@ body {
   .fundo {
     position: absolute;
     bottom: 0px;
-    background-image: url(/imgs/background.png);
+    background-image: url(background.png);
     background-repeat: repeat-x;
     animation: slideright 600s infinite linear;
     -webkit-animation: slideright 600s infinite linear;
